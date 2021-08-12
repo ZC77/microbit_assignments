@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+524c849869fac59e970629019143b2cf ../MICROBIT.bin
+a2c8cfb1177e5d3cfe8f0a3fcb9a1a88 ../MICROBIT.hex
+58b1eeae775adfbfad833a69586bc1e3 CMakeFiles/MICROBIT_bin
+58b1eeae775adfbfad833a69586bc1e3 CMakeFiles/MICROBIT_hex
